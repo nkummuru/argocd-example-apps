@@ -1,4 +1,4 @@
 service:
   type: NodePort
 
- replicaCount: 4
+replicaCount: 4
